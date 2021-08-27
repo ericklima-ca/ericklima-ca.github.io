@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amorim <@ericklima-ca>
-- :man_technologist: I’m interested in data science, machine learning, bi & ba and web development, python, r, c, js, html and css.
+- :man_technologist: I’m interested in software development, web development, bi, ```python, c#, java, js```.
 - :chart_with_upwards_trend: I’m currently learning data science.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/erick-lima-ca/" >linkedin</a>.
 
