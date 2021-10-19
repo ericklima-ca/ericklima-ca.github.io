@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amorim [@ericklima-ca](https://www.linkedin.com/in/erick-lima-ca/)
-- :man_technologist: I’m interested in software development, web development, bi, python, js, and more.
-- :chart_with_upwards_trend: I’m currently learning data science.
+- :man_technologist: I’m interested in software development, web development, elixir, python, rust, phoenix, flask and more.
+- :gear: I’m currently learning software engineering.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/erick-lima-ca/" >linkedin</a>.
 
 <!---
